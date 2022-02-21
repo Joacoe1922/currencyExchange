@@ -1,0 +1,25 @@
+body {
+    max-width: fit-content;
+    align-content: center;
+}
+
+.title {
+    color: rgb(61, 138, 168);
+    text-align: center;
+}
+
+.container {
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(208, 228, 236);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.form {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
